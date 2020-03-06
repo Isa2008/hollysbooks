@@ -7,8 +7,8 @@ Responsiveness at smartphone devices, showing the books in vertical stack.\
 Clicking on "about" shows Fletcher's short biography and an image of herself built with an onclick event function.\
 Links to Twitter, Instagram, Mailto by clicking on its images.\
 
-## Demo:\
+### Demo:
 https://hollyfletcher.org/
 
-## TECH STACK:\
+### TECH STACK:
 HTML, CSS with Flexbox & animation, JavaScript
