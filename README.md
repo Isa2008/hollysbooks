@@ -11,6 +11,7 @@ Links to Twitter, Instagram, Mailto by clicking on its images.
 https://hollyfletcher.org/
 
 ### TECH STACK:
-HTML, CSS with Flexbox & animation, JavaScript
+HTML, CSS with Flexbox & animation, JavaScript\
+Deployed with WordPress /PHP
 
 ![Alt Text](images/holly-demo.png)
