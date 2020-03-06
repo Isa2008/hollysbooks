@@ -12,6 +12,6 @@ https://hollyfletcher.org/
 
 ### TECH STACK:
 HTML, CSS with Flexbox & animation, JavaScript\
-Deployed with WordPress /PHP
+Deployed with WordPress & PHP
 
 ![Alt Text](images/holly-demo.png)
