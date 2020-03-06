@@ -2,11 +2,13 @@
 
 ### DEMO:
 https://hollyfletcher.org/
+
 \
 
 ### TECH STACK:
 HTML, CSS with Flexbox & Animation, Vanilla JavaScript\
 Deployed with WordPress & PHP
+
 \
 
 ### FEATURES:
