@@ -8,7 +8,7 @@ HTML, CSS with Flexbox & Animation, Vanilla JavaScript\
 Deployed with WordPress & PHP
 
 ### FEATURES:
-Website I built for a creative writer.\
+Static website I built for a creative writer.\
 Stack of books is lying around horizontal as if it was in my sleeping room.\
 Each book links with a sliding animation to one of Holly Fletcher's published poems to external sites.\
 Responsiveness for smartphone devices, showing the books in vertical stack.\
