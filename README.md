@@ -12,3 +12,5 @@ https://hollyfletcher.org/
 
 ### TECH STACK:
 HTML, CSS with Flexbox & animation, JavaScript
+
+![Alt Text](images/holly-demo.png)
